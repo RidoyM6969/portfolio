@@ -1,0 +1,510 @@
+
+/* &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& */
+
+@media(max-width:575px){
+
+      /* navber end =================*/  
+    .nav_ber ul li a{
+        font-size: 10px !important;
+    }
+    .cv_btn a{
+        font-size: 10px !important;
+        font-weight: 600 !important;
+        padding: 8px 20px !important;
+    }
+    /* navber end ===================*/
+
+    /* banner section start */
+    #banner{
+        padding: 150px 0 62px 0 !important;
+    }
+    .my_self h3{
+        font-size: 15px !important;
+    }
+    .my_self h1{
+        font-size: 38px !important;
+    }
+    .my_self h2{
+        font-size: 28px !important;
+    }
+    .my_self p{
+        font-size: 12px !important;
+    }
+    .ban_img_bor{
+        margin-top: 60px !important;
+    }
+    .ban_img_bor {
+        height: 300px !important;
+        width: 300px !important;
+    }
+    .ban_img_bor img {
+        width: 280px !important;
+        height: 280px !important;
+    }
+    /* ban section end */
+
+    /* about section start */
+    #about {
+        padding: 40px 0 30px 0 !important;
+    }
+    .about_img img {
+        width: 350px !important;
+        margin-left: 55px;
+    }
+    .about_mrgin {
+        margin-top: 50px !important;
+    }
+    .about_dtl {
+        padding: 40px 30px 40px 30px !important;
+    }
+    .about_dtl h4 {
+        font-size: 15px !important;
+    }
+    .about_dtl h3 {
+        font-size: 15px !important;
+    }
+    .ab_dtl {
+        font-size: 20px !important;
+    }
+    .data_first h5 {
+        font-size: 15px !important;
+    }
+    .data_second {
+        font-size: 12px !important;
+    }
+    /* about section end */
+
+    /* portfolio start */
+    #portfolio {
+        padding: 5px 0 30px 0 !important;
+    }
+    .portfolio_main h2{
+        font-size: 28px !important;
+    }
+    .portfolio_main p{
+        font-size: 15px !important;
+        padding-bottom: 1px !important;
+    }
+    .portfolio_nav ul li{
+        padding:  8px !important;
+    }
+    .portfolio_nav ul li a{
+        font-size: 13px !important;
+    }
+    .mrg_12 img {
+        width: 350px !important;
+    }
+    /* portfolio end*/
+
+    /* service section start */
+    #service {
+        padding: 5px 0 50px !important;
+    }
+    .service_main h2 {
+        font-size: 28px !important;
+        padding: 5px 0 1px 0 !important;
+    }
+    .service_main p {
+        padding-bottom: 10px !important;
+        font-size: 25px !important;
+    }
+
+    .price_valu {
+        border: 1px solid transparent;
+        padding: 30px 30px 30px 40px !important;
+    }
+    /* service section end */
+
+    /* contect section start */
+    #contect {
+        padding: 100px 0 40px 0 !important;
+    }
+    .bottom_detail h2 {
+        font-size: 28px !important;
+        padding-left: 30px !important;
+    }
+    .contect_me {
+        font-size: 32px !important;
+    }
+    .pl_d a {
+        padding: 10px 30px !important;
+    }
+    .pl_d h6 {
+        font-size: 18px !important;
+    }
+    form input {
+        width: 300px !important;
+    }
+    form textarea {
+        width: 300px !important;
+    }
+    .form_bttn {
+        padding: 12px 20px !important;
+        font-size: 12px !important;
+    }
+    /* contect section end */
+    #copy_right p {
+        font-size: 8px !important;
+    }
+   
+/* &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& */
+}
+@media(min-width:576px) and (max-width:768px){
+
+          /* navber end =================*/  
+          .nav_ber ul li a{
+            font-size: 16px !important;
+        }
+        .cv_btn a{
+            font-size: 12px !important;
+            font-weight: 600 !important;
+            padding: 8px 20px !important;
+        }
+        #copy_right p {
+            font-size: 15px !important;
+        }
+        /* navber end ===================*/
+    
+    /* banner section start */
+    #banner{
+        padding: 150px 0 62px 0 !important;
+    }
+    .my_self h3{
+        font-size: 18px !important;
+    }
+    .my_self h1{
+        font-size: 42px !important;
+    }
+    .my_self h2{
+        font-size: 30px !important;
+    }
+    .my_self p{
+        font-size: 15px !important;
+    }
+    .ban_img_bor{
+        margin-top: 60px !important;
+        width: 350px !important;
+        height: 350px !important;
+    }
+    .ban_img_bor img {
+        width: 330px !important;
+        height: 330px !important;
+    }
+
+    /* banner section end */
+
+    /* about section start */
+    #about {
+        padding: 20px 0 60px 0 !important;
+    }
+    .about_img img {
+        width: 400px !important;
+        margin-left: 55px;
+    }
+    .about_mrgin {
+        margin-top: 30px !important;
+    }
+    .about_dtl {
+        padding: 40px 20px 60px 50px !important;
+    }
+    /* about section end */
+    
+}
+
+/* &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& */
+
+@media(min-width:768px) and (max-width:991px){
+
+          /* navber end =================*/  
+          .nav_ber ul li a{
+            font-size: 18px !important;
+        }
+        .cv_btn a{
+            font-size: 16px !important;
+            font-weight: 600 !important;
+            padding: 8px 20px !important;
+        }
+        /* navber end ===================*/
+    
+    /* banner section satrt */
+    #banner {
+        padding: 150px 0 100px 0 !important;
+    }
+    .my_self h3 {
+        font-size: 15px !important;
+    }
+    .my_self h1 {
+        font-size: 27px !important;
+        font-weight: 700 !important;
+        padding: 10px 0 8px 0 !important;
+    }
+    .my_self h2 {
+        font-size: 18px !important;
+    }
+    .my_self p {
+        font-size: 12px !important;
+        padding: 0 15px 0 0;
+    }
+    .ban_img_bor {
+        height: 280px !important;
+        width: 280px !important;
+        margin-top: 5px !important;
+    }
+    .ban_img_bor img {
+        width: 260px !important;
+        height: 260px !important;
+    }
+
+    /* banner section end */
+
+    /* about section satrt */
+    #about {
+        padding: 40px 0 20px 0 !important;
+    }
+    .about_top h2 {
+        padding: 10px 0 !important;
+        font-size: 30px;
+    }
+    .about_dtl h3 {
+        font-size: 20px !important;
+    }
+    .about_dtl h4{
+        font-size: 15px !important;
+    }
+    .ab_dtl{
+        font-size: 22px !important;
+    }
+    .about_dtl {
+        padding: 10px 10px 80px 30px !important;
+    }
+    .data_first h5 {
+        font-size: 13px !important;
+    }
+    .data_second {
+        font-size: 13px !important;
+    }
+    /* about section end */
+
+    /* portfolio start */
+    #portfolio {
+        padding: 40px 0 40px 0 !important;
+    }
+    .portfolio_main h2 {
+        font-size: 28px !important;
+        padding: 5px 0 20px 0 !important;
+    }
+    .portfolio_main p {
+        padding-bottom: 11px !important;
+        font-size: 16px !important;
+    }
+    .portfolio_nav ul li a {
+        font-size: 14px !important;
+    }
+    .mrg_12 img {
+        width:230px !important;
+    }
+    /* portfolio  end */
+
+    /* service section start */
+    #service {
+        padding: 55px 0 100px !important;
+    }
+    .service_main h2 {
+        font-size: 28px !important;
+        padding: 5px 0 10px 0 !important;
+    }
+    .service_main p {
+        padding-bottom: 00px !important;
+        font-size: 18px !important;
+    }
+    .price_header h2 {
+        font-size: 30px !important;
+        padding: 15px 0 6px 0 !important;
+    }
+    .price_valu {
+        padding: 40px 40px 40px 40px !important;
+    }
+    /* service section end */
+
+    /* cotect section start */
+    #contect {
+        padding: 50px 0 50px 0 !important;
+    }
+    .pl_d a {
+        padding: 13px 30px !important;
+    }
+    .pl_d h6 {
+        font-size: 16px !important;
+    }
+    form input{
+        height: 70px;
+        width: 300px !important;    
+    }
+    form textarea {
+        height:150px;
+        width: 300px !important;
+    }
+    .form_bttn {
+        padding: 15px 25px !important;
+        font-size: 12px !important;
+    }
+    /* cotect section end */
+    #copy_right p {
+        font-size: 10px !important;
+    }
+}
+
+/* &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& */
+
+@media(min-width:992px) and (max-width:1199px){
+    /* banner section start */
+    #banner {
+        padding: 250px 0 150px 0 !important;
+    }
+    .my_self h3 {
+        font-size: 20px !important;
+    }
+    .my_self h1 {
+        font-size: 37px !important;
+        padding: 15px 0 10px 0;
+    }
+    .ban_img_bor {
+        height: 350px !important;
+        width: 350px !important;
+    }
+    .my_self h2 {
+        font-size: 30px !important;
+    }
+    .my_self p {
+        font-size: 15px !important;
+    }
+    .ban_img_bor img {
+        width: 325px !important;
+        height: 325px !important;
+    }
+
+    /* banner section end */
+
+    /* about- section start */
+    #about {
+        padding: 100px 0 100px 0 !important;
+    }
+    .about_top h2 {
+        padding: 10px 0 !important;
+        font-size: 30px;
+    }
+    /* about- section end */
+
+    /* portfolio section start */
+    #portfolio {
+        padding: 18px 0 100px 0 !important;
+    }
+    .portfolio_main h2 {
+        padding: 5px 0 10px 0 !important;
+    }
+    .portfolio_main p {
+        padding-bottom: 10px !important;
+        font-size: 18px !important;
+    }
+    .portfolio_nav ul li {
+        padding: 0 15px !important;
+    }
+    .mrg_12 img {
+        width: 300px !important;
+    }
+    /* portfolio section end */
+
+    /* service section start */
+    #service {
+        padding: 80px 0 150px !important;
+    }
+    .service_main h2 {
+        padding: 5px 0 5px 0 !important;
+    }
+    .service_main p {
+        padding-bottom: 30px !important;
+        font-size: 20px !important;
+        font-weight: 400;
+    }
+    .price_header h2 {
+        font-size: 25px !important;
+        padding: 20px 0 25px 0 !important;
+    }
+    .price_valu h4 {
+        font-size: 30px !important;
+        font-weight: 700;
+    }
+    .confarm_btn{
+        margin-left: -13px !important;
+    }
+    .confarm_btn a {
+        padding: 15px 53px !important;
+        font-size: 12px !important;
+        font-weight: 400 !important;
+    }
+    .price_valu p {
+        font-size: 14px !important;
+    }
+    .price_fotter p{
+        font-size: 9px !important;
+    }
+    /* service section end */
+
+    /* contect section start */
+    #contect {
+        padding: 100px 0 60px 0 !important;
+    }
+    .pl_d a {
+        padding: 10px 40px !important;
+    }
+    form input {
+        height: 60px;
+        width: 450px;
+    }
+    .form_bttn {
+        padding: 12px 20px !important;
+        font-size: 16px;
+    }
+    /* contect section  end */
+    #copy_right {
+        padding: 0px 0 !important;
+    }
+    
+}
+
+/* &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& */
+
+@media(min-width:1200px) and (max-width:1399px){
+/* portfolio section start */
+.portfolio_main p {
+    padding-bottom: 40px;
+    font-size: 25px !important;
+}
+.mrg_12 img {
+    width: 360px !important;
+}
+/* portfolio section end */
+
+/* service section start */
+.confarm_btn{
+    margin-left: -10px !important;
+}
+.confarm_btn a {
+    padding: 15px 61px !important;
+    font-size: 16px !important;
+    font-weight: 600;
+}
+.price_fotter p {
+    font-size: 11px !important;
+    padding: 5px 10px;
+}
+/* service section end */
+}
+
+/* &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&& */
+
+@media(min-width:1400px){
+
+}
+
+
